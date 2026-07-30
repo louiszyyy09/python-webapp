@@ -11,4 +11,4 @@
 - **Languages:** Python, JavaScript (HTML/CSS)
 - **Frameworks & Tools:** React, Vite, Antigravity, Git, Vercel
 - 
-[View PyCheatSheet App](https://python-cheatsheets-qfr80ddg6-louiszyyy09.vercel.app)
+[View PyCheatSheet App](https://python-cheatsheets-qfr80ddg6-louiszy09.vercel.app/)
